@@ -18,3 +18,7 @@
 .image__caption {
   padding: 0.5rem 1rem;
 }
+
+.main-content {
+  width: min(90vw, 80ch);
+}
